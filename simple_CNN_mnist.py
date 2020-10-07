@@ -7,6 +7,7 @@ import torch.optim as optim
 from torchvision import datasets, transforms
 from torch.autograd import Variable
 
+
 batch_size = 16
 lr = 0.01
 epoch = 20
